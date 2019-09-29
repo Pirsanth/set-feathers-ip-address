@@ -1,0 +1,29 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "Change the ip address programatically for React Native projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pirsanth/set-feathers-ip-address.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pirsanth/set-feathers-ip-address/issues"
+  },
+  "homepage": "https://github.com/Pirsanth/set-feathers-ip-address#readme",
+  "dependencies": {
+    "address": "^1.1.2",
+    "colors": "^1.4.0",
+    "fs-extra": "^8.1.0",
+    "isip": "0.0.1",
+    "modify-url": "^1.0.2"
+  },
+  "bin": {
+    "io": "index.js"
+  }
+}
