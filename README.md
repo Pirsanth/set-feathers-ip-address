@@ -14,7 +14,7 @@ can just use localhost for the Web. Run this in the base of React Native project
  At the base of a react native project just type **io** in the command line to update the ip address used in the feathers.js file.
 
 ## Uninstallation
-1. Use the commannd line to navigate to where you git cloned the repo
+1. Use the command line to navigate to where you git cloned the repo
 2. Run **npm unlink**
 3. Delete the repository from your computer
 
